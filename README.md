@@ -1,13 +1,18 @@
 # Hi, I'm Tomoki 👋
 
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Computer+Science+Student;C%2B%2B+%26+Python+Developer;Security+Researcher)
+
 ## About Me
-- 🎓 山梨大学 ○○専攻 4年
-- 🔬 研究テーマ：攻撃グラフ
+
+- 🎓 B.S. Student — Dept. of Computer Science and Engineering, University of Yamanashi (4th year)
+- 🔬 Research: Attack Graphs for Cybersecurity Analysis
+- 💼 Part-time developer — mainly working with C++
 - 🌱 Currently learning: Astro, TypeScript
+- 🚀 Aiming for graduate school
 
 ## Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomocakezombie&show_icons=true&theme=default)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white)

@@ -1,5 +1,7 @@
 # Hi, I'm Tomoki 👋
 
+![counter-img](https://komarev.com/ghpvc/?username=tomocakezombie&color=00599C&style=flat-square&label=Profile+Views)
+
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Computer+Science+Student;C%2B%2B+%26+Python+Developer;Security+Researcher)
 
 ## About Me

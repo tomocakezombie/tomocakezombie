@@ -1,5 +1,5 @@
 # Hi, I'm Tomoki 👋
-[日本語版はこちら](./README_ja.md)
+[日本語版はこちら](README_ja.md)
 
 ![counter-img](https://komarev.com/ghpvc/?username=tomocakezombie&color=00599C&style=flat-square&label=Profile+Views)
 

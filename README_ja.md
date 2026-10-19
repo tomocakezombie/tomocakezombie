@@ -1,5 +1,17 @@
+<p align="right">
+  <sub>
+    Language:
+    <a href="./README.md">English</a> /
+    <strong>日本語</strong>
+  </sub>
+</p>
+
 # こんにちは、ともきです 👋
-![counter-img](https://komarev.com/ghpvc/?username=tomocakezombie&color=00599C&style=flat-square&label=プロフィールの閲覧数)
+
+<p align="center">
+  <img src="https://count.getloli.com/@tomocakezombie?theme=sketch-1&padding=7&offset=0&align=top&scale=1.0&pixelated=1&darkmode=auto" />
+</p>
+
 ![Typing](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&pause=1000&lines=コンピュータ理工学科の学生;C%2B%2B+%26+Python+エンジニア;セキュリティ)
 
 ## 自己紹介
@@ -10,7 +22,15 @@
 - 🚀 大学院進学を目指しています
 
 ## スキル
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white)
+
+### 🔧 実務・日常的に使用
+
+[![My Skills](https://skillicons.dev/icons?i=rust,py,cpp,cs,ts,docker,bash,git,github,md,npm,powershell,ubuntu,vscode,visualstudio,windows,apple)](https://skillicons.dev)
+
+### 📖 触ったことがある
+
+[![My Skills](https://skillicons.dev/icons?i=js,java,c,django,nodejs,astro,azure,debian,eclipse,emacs,figma,gitlab,obsidian)](https://skillicons.dev)
+
+### 🌱 学習中
+
+[![My Skills](https://skillicons.dev/icons?i=php,kali)](https://skillicons.dev)

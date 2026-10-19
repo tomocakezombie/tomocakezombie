@@ -9,7 +9,7 @@
 # こんにちは、ともきです 👋
 
 <p align="center">
-  <img src="https://count.getloli.com/@tomocakezombie?theme=sketch-1&padding=7&offset=0&align=top&scale=1.0&pixelated=1&darkmode=auto" />
+  <img src="https://count.getloli.com/@tomocakezombie?theme=miku&padding=7&offset=0&align=top&scale=1.0&pixelated=1&darkmode=auto" />
 </p>
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&pause=1000&lines=コンピュータ理工学科の学生;C%2B%2B+%26+Python+エンジニア;セキュリティ)

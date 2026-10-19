@@ -9,7 +9,7 @@
 # Hi, I'm Tomoki 👋
 
 <p align="center">
-  <img src="https://count.getloli.com/@tomocakezombie?theme=sketch-1&padding=7&offset=0&align=top&scale=1.0&pixelated=1&darkmode=auto" />
+  <img src="https://count.getloli.com/@tomocakezombie?theme=miku&padding=7&offset=0&align=top&scale=1.0&pixelated=1&darkmode=auto" />
 </p>
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Computer+Science+Student;C%2B%2B+%26+Python+Developer;Security+Researcher)

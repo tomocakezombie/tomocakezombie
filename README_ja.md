@@ -34,3 +34,10 @@
 ### 🌱 学習中
 
 [![My Skills](https://skillicons.dev/icons?i=php,kali)](https://skillicons.dev)
+
+## GitHub 統計
+
+<p align="center">
+  <img height="170" alt="GitHub 統計" src="https://github-readme-stats.vercel.app/api?username=tomocakezombie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" alt="よく使う言語" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomocakezombie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
